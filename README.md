@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GovardhanGova7277
+
 Linkedin: https://www.linkedin.com/in/govardhan-g-1a13a1254 Twitter: https://x.com/Govardhangovs?t=u4qyxUV0xp9Bs7k4gppAEQ&s=09
 
-My name is Govardhan, and I'm a B.Tech student in Information Science and Engineering at Jain University, Bangalore, with a current CGPA of 9.0. I'm passionate about technology and its impact on the world. This passion is reflected in my academic achievements.
+👋 Hi, I’m @GovardhanGova7277, and I'm a B.Tech student in Information Science and Engineering at Jain University, Bangalore, with a current CGPA of 9.0. I'm passionate about technology and its impact on the world. This passion is reflected in my academic achievements.
 
 Further, I honed my skills through internships at YBI Foundation and Capabl, focusing on data science and machine learning. My technical knowledge includes proficiency in Python, HTML, CSS, JavaScript, SQL, and the Django framework. Additionally, I hold certifications in these areas and have completed training courses in data analysis, machine learning, and full-stack web development.
 
