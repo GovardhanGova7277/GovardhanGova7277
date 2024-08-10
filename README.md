@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Govardhan Gova
+# 👋 Hi, I'm Govardhan
 
 **B.Tech in Information Science and Engineering**  
 **Jain University, Bangalore**  
