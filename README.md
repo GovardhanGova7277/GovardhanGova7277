@@ -1,21 +1,71 @@
 
+# 👋 Hi, I'm Govardhan Gova
 
+**B.Tech in Information Science and Engineering**  
+**Jain University, Bangalore**  
+**CGPA: 9.0**
 
-👋 Hi, I’m @GovardhanGova7277, and I'm a B.Tech student in Information Science and Engineering at Jain University, Bangalore, with a current CGPA of 9.0. I'm passionate about technology and its impact on the world. This passion is reflected in my academic achievements.
+---
 
-Further, I honed my skills through internships at YBI Foundation and Capabl, focusing on data science and machine learning. My technical knowledge includes proficiency in Python, HTML, CSS, JavaScript, SQL, and the Django framework. Additionally, I hold certifications in these areas and have completed training courses in data analysis, machine learning, and full-stack web development.
+### 💡 About Me
 
-Beyond academics, I actively contributed to my university by coordinating UX BLITZ, a UI/UX competition during our fest. I also organized workshops and sub-events to foster creativity among students.
+I'm a passionate technologist who believes in the power of technology to transform the world. My journey in tech is driven by my curiosity and commitment to learning, which is reflected in my academic achievements and the projects I've undertaken.
 
-In my personal time, I enjoy music, analyzing movies as a film enthusiast, and keeping myself updated with new technology and philosophy through YouTube interviews.
+I have honed my skills through internships at **YBI Foundation** and **Capabl**, focusing on **Data Science** and **Machine Learning**. My technical toolkit includes:
 
-PROJECTS
-A social media login and registration system using Django framework with session management.
+- **Programming Languages:** Python, HTML, CSS, JavaScript, SQL
+- **Frameworks:** Django
+- **Certifications:** Full-stack web development, data analysis, machine learning
 
-An API-integrated movie and TV show website.
+Beyond technical skills, I actively contribute to my university community. I led the **UX BLITZ** competition, a UI/UX event during our fest, where I also organized workshops to inspire creativity among students.
 
-A machine learning project predicting taxi trip durations.
+---
 
-https://github.com/GovardhanGova7277/Predicting-Taxi-Trip-Duration
-Linkedin: https://www.linkedin.com/in/govardhan-g-1a13a1254 
-Twitter: https://x.com/Govardhangovs?t=u4qyxUV0xp9Bs7k4gppAEQ&s=09
+### 🛠️ Projects
+
+- **Social Media Login & Registration System with Session Management**  
+  *A secure and scalable web application built using the Django framework.*  
+  - Emphasized user privacy and streamlined user experience.
+  - Demonstrated expertise in Django ORM and template language.
+
+- **API-Integrated Movie & TV Show Website**  
+  *A dynamic platform that fetches and displays data from external APIs.*  
+  - Implemented user-friendly interfaces and seamless navigation.
+  - Leveraged JavaScript for enhanced interactivity.
+
+- **Taxi Trip Duration Prediction using Machine Learning**  
+  *A predictive model developed to estimate taxi trip durations.*  
+  - Applied advanced data preprocessing and multiple linear regression.
+  - Achieved an accuracy rate of 84%.
+
+  [View Project on GitHub](https://github.com/GovardhanGova7277/Predicting-Taxi-Trip-Duration)
+
+---
+
+### 📚 Certifications & Training
+
+- **Python, HTML, CSS, JavaScript, SQL**
+- **Django Framework**
+- **Data Analysis & Machine Learning**
+- **Full-Stack Web Development**
+
+---
+
+### 🎵 Beyond Coding
+
+When I'm not coding, you can find me:
+
+- Exploring the world of music 🎧
+- Analyzing movies as a film enthusiast 🎬
+- Staying updated with the latest in tech and philosophy through YouTube interviews 🎥
+
+---
+
+### 📫 Let's Connect!
+
+- **LinkedIn:** [Govardhan G](https://www.linkedin.com/in/govardhan-g-1a13a1254)
+- **Twitter:** [@Govardhangovs](https://x.com/Govardhangovs?t=u4qyxUV0xp9Bs7k4gppAEQ&s=09)
+
+---
+
+I'm always open to learning new things and collaborating on exciting projects. Let's build something amazing together!
