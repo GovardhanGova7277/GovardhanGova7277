@@ -27,7 +27,8 @@ Beyond technical skills, I actively contribute to my university community. I led
   *A secure and scalable web application built using the Django framework.*  
   - Emphasized user privacy and streamlined user experience.
   - Demonstrated expertise in Django ORM and template language.
-    https://github.com/GovardhanGova7277/Registration_Login_System
+  - [View Project on GitHub](https://github.com/GovardhanGova7277/Registration_Login_System)
+    
 
 - **Weather Information Management System**
   *A Django-based application designed to efficiently manage city weather records*
@@ -35,20 +36,16 @@ Beyond technical skills, I actively contribute to my university community. I led
   - Developed a Django-based weather information system, enabling efficient data entry and retrieval for city weather records.
   - Implemented user-friendly forms and real-time feedback using Django’s message framework for an improved user experience.
   - Managed data integrity and image handling through Django models, ensuring accurate and accessible weather records.
-    https://github.com/GovardhanGova7277/Web-Application-for-Weather-Information-Management-Using-Django-ORM
+  - [View Project on GitHub](https://github.com/GovardhanGova7277/Web-Application-for-Weather-Information-Management-Using-Django-ORM)
 
+ 
+    
 - **API-Integrated Movie & TV Show Website**  
   *A dynamic platform that fetches and displays data from external APIs.*  
   - Implemented user-friendly interfaces and seamless navigation.
   - Leveraged JavaScript for enhanced interactivity.
-    https://github.com/GovardhanGova7277/Movies_Clone
-
-- **Taxi Trip Duration Prediction using Machine Learning**  
-  *A predictive model developed to estimate taxi trip durations.*  
-  - Applied advanced data preprocessing and multiple linear regression.
-  - Achieved an accuracy rate of 84%.
-
-  [View Project on GitHub](https://github.com/GovardhanGova7277/Predicting-Taxi-Trip-Duration)
+  - [View Project on GitHub](https://github.com/GovardhanGova7277/Movies_Clone)
+ 
 
 ---
 
