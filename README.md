@@ -14,13 +14,23 @@ Feel free to check out my repositories below, where I share projects aimed at ma
 
 ![Screenshot (550)](https://github.com/user-attachments/assets/10c76aa9-3a32-4e2d-bfa0-0c3312be9311)
 
+
+
 ![Screenshot (383)](https://github.com/user-attachments/assets/04e5a9e5-6d33-45fc-a68e-1c630593fefe)
+
+
 
 ![Screenshot (382)](https://github.com/user-attachments/assets/2382605e-9a54-45c4-b6d7-7a2fbf7cae92)
 
+
+
 ![Screenshot (551)](https://github.com/user-attachments/assets/dc9f20cd-b707-40c3-af8c-dbb9ab95e07b)
 
+
+
 ![Screenshot (543)](https://github.com/user-attachments/assets/5b40dd99-4279-4485-a26f-bc61272f7419)
+
+
 
 ![Screenshot (531)](https://github.com/user-attachments/assets/86bc5b75-7cd8-410e-99f8-e59fe007e25a)
 
@@ -51,8 +61,14 @@ Beyond technical skills, I actively contribute to my university community. I led
   - Demonstrated expertise in Django ORM and template language.
   - [View Project on GitHub](https://github.com/GovardhanGova7277/Registration_Login_System)
  
- ![Screenshot (455)](https://github.com/user-attachments/assets/bcc13558-29ef-493f-990a-73e72fff74c9)
+![Screenshot (455)](https://github.com/user-attachments/assets/bcc13558-29ef-493f-990a-73e72fff74c9)
+
+
+
 ![Screenshot (457)](https://github.com/user-attachments/assets/e7d8012a-83c6-44a9-92cb-c153ba0c7f11)
+
+
+
 ![Screenshot (456)](https://github.com/user-attachments/assets/f68427ce-0225-4792-8730-83df0c6acf87)
 
     
