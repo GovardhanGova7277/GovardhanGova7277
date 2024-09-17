@@ -12,33 +12,29 @@ Feel free to check out my repositories below, where I share projects aimed at ma
 ### 🎨 **Crafting Intuitive & Engaging Web Experiences** 🌐
 ---
 
-![Screenshot (550)](https://github.com/user-attachments/assets/10c76aa9-3a32-4e2d-bfa0-0c3312be9311)
-
-
-
-![Screenshot (383)](https://github.com/user-attachments/assets/04e5a9e5-6d33-45fc-a68e-1c630593fefe)
-
-
-
-![Screenshot (382)](https://github.com/user-attachments/assets/2382605e-9a54-45c4-b6d7-7a2fbf7cae92)
-
-
-
-![Screenshot (551)](https://github.com/user-attachments/assets/dc9f20cd-b707-40c3-af8c-dbb9ab95e07b)
-
-
-
-![Screenshot (543)](https://github.com/user-attachments/assets/5b40dd99-4279-4485-a26f-bc61272f7419)
-
-
-
-![Screenshot (531)](https://github.com/user-attachments/assets/86bc5b75-7cd8-410e-99f8-e59fe007e25a)
-
-
-
+![Screenshot (550)](https://github.com/user-attachments/assets/e5de9cb6-b98e-4207-a1dd-c6048de2fe9b)
 
 ---
 
+![Screenshot (543)](https://github.com/user-attachments/assets/b261aa9d-a220-4870-a7f5-6ecb13b02be6)
+
+---
+
+![Screenshot (551)](https://github.com/user-attachments/assets/c8faf838-1803-4f1c-a61c-118ed97b0df6)
+
+---
+
+![Screenshot (531)](https://github.com/user-attachments/assets/c8ca9fb0-feec-4c7d-9ec3-fe977fc11f70)
+
+---
+
+![Screenshot (383)](https://github.com/user-attachments/assets/f1c0878b-84ec-4ddc-b41a-ce4684eac384)
+
+---
+
+![Screenshot (382)](https://github.com/user-attachments/assets/d0086832-1c2e-4356-b7e9-cc498c26c2cb)
+
+---
 ### 💡 About Me
 
 I'm a passionate technologist who believes in the power of technology to transform the world. My journey in tech is driven by my curiosity and commitment to learning, which is reflected in my academic achievements and the projects I've undertaken.
