@@ -1,8 +1,5 @@
 ### 👋 Hello, I'm Govardhan!
 
-
-### 👋 Hello, I'm Govardhan!
-
 I am an **Enterprise Backend & Distributed Systems Engineer** with a foundational passion for **UI/UX Craftsmanship**. I specialize in building highly resilient, event-driven microservices using **Java, Spring Boot, and Apache Kafka**, while actively engineering intelligent automated workflows with **Python, Cloud Cloud-Native architectures (K8s, Docker), and Generative AI (RAG, Agentic Systems)**. 
 
 My unique edge lies in the intersection of deep backend architecture and visual design: I build infrastructure capable of processing millions of data points, and I care deeply about how that data is visually presented to the end user.
